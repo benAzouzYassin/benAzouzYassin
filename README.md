@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine</h1>
-<h3 align="center">A passionate IT student from tunisia</h3>
+<h3 align="center">A passionate IT student from TUNISIA</h3>
 
 - 🌱 I’m currently learning **REACT JS⭐**
 
