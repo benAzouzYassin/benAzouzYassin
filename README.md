@@ -7,7 +7,6 @@
 
 - 📫 reach me **by my email (yassinebenazouz123@gmail.com) or my linkedin account (https://www.linkedin.com/in/yassine-benazouz-724782242/)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
