@@ -13,7 +13,7 @@ I am an IT student who is driven by my thirst for knowledge and deep passion for
 ---
 
 <p style="font-size:20px;font-weight:500;"> 🧰 Languages and Tools</p>
-
+<div style="display:flex;">
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -25,7 +25,7 @@ I am an IT student who is driven by my thirst for knowledge and deep passion for
 <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-
+</div>
 <br />
 
 <p style="font-size:20px;font-weight:500;">📞 Contacts :</p>
