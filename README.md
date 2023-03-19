@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yassine</h1>
 <h3 align="center">A passionate IT student from TUNISIA</h3>
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 👨‍💻 All of my projects are available at [https://benazouzyassine.netlify.app/](https://benazouzyassine.netlify.app/)
 
