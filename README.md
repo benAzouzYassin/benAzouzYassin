@@ -30,7 +30,7 @@ I am an IT student who is driven by my thirst for knowledge and deep passion for
 <br />
 
 <p style="font-size:20px;font-weight:500;">📞 Contacts :</p>
-<span style="display:flex; gap:5px;">
+<span style="display:flex; flex-direction:row; gap:5px;">
   
 <a style="margin-left:20px" href="https://www.linkedin.com/in/yassine-benazouz-724782242/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
