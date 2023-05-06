@@ -2,7 +2,7 @@
 
 ## I am :
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+junior+web+developer;An+CS+student)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+junior+web+developer;A+CS+student)](https://git.io/typing-svg)
 
 <details open>
 <summary style="font-size:20px;">About me : </summary>
