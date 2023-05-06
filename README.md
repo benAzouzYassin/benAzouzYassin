@@ -2,12 +2,12 @@
 
 ## I am :
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+junior+web+developer;An+IT+student)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+junior+web+developer;An+CS+student)](https://git.io/typing-svg)
 
 <details open>
 <summary style="font-size:20px;">About me : </summary>
 
-I am an IT student who is driven by my thirst for knowledge and deep passion for learning new things about software development. I enjoy diving deep into a technology and challenging myself with projects to force myself to learn new things✨.
+I am an CS student who is driven by my thirst for knowledge and deep passion for learning new things about software development. I enjoy diving deep into a technology and challenging myself with projects to force myself to learn new things✨.
 
 </details>
 
