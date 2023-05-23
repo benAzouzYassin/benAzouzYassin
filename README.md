@@ -31,7 +31,7 @@ I am a CS student who is driven by my thirst for knowledge and deep passion for 
 <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img width="30px" style="color:white;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
 </div>
 <br />
