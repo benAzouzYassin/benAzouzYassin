@@ -27,6 +27,7 @@ I am a CS student who is driven by my thirst for knowledge and deep passion for 
 </div>
 <br />
 <p style="font-size:20px;font-weight:500;"> 🧰 What i'm learning :</p>
+<div style="display:flex; gap:5px;">
 <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
