@@ -1,4 +1,4 @@
-<h1 align="center">🙋🏼‍♂️ Hi this is Yassine </h1>
+<h1 align="center">Hi this is Yassine </h1>
 
 ## I am :
 
