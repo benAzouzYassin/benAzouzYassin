@@ -18,6 +18,7 @@ I am a CS student who is driven by my thirst for knowledge and deep passion for 
 <img a alt="Python" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img  alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img  alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img  alt="React" width="30px" src="https://cdn.simpleicons.org/astro" />
 <img  alt="Git" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img  alt="Javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="30px"  alt="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
@@ -26,17 +27,18 @@ I am a CS student who is driven by my thirst for knowledge and deep passion for 
 <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" />
-<img width="30px" style="background-color:white;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img width="30px" src="https://cdn.simpleicons.org/socketdotio/white" />
+<img width="30px" style="background-color:white;"  src="https://cdn.simpleicons.org/express/white" />
 </div>
 <br />
-<p style="font-size:20px;font-weight:500;"> 🧰 What i'm learning :</p>
+<p style="font-size:20px;font-weight:500;"> 🧰thing i'm learning / interested in :</p>
 <div style="display:flex; gap:5px;">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  
-<img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img width="30px"  src="https://cdn.simpleicons.org/jquery" />
+<img width="30px"  src="https://cdn.simpleicons.org/docker" />
+<img width="30px"  src="https://cdn.simpleicons.org/php" />
+<img width="30px"  src="https://cdn.simpleicons.org/nextdotjs" />
 
 
 </div>
