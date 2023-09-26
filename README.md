@@ -15,7 +15,7 @@ I am a CS student who is driven by my thirst for knowledge and deep passion for 
 
 <p style="font-size:20px;font-weight:500;"> 🧰 Languages and Tools :</p>
 <div style="display:flex; gap:5px;">
-
+<img width="30px"  src="https://cdn.simpleicons.org/jquery" />
 <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img  alt="Git" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img a alt="Python" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -37,7 +37,6 @@ I am a CS student who is driven by my thirst for knowledge and deep passion for 
 <div style="display:flex; gap:5px;">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img width="30px"  src="https://cdn.simpleicons.org/jquery" />
 <img width="30px"  src="https://cdn.simpleicons.org/docker" />
 <img width="30px"  src="https://cdn.simpleicons.org/php" />
 
