@@ -28,7 +28,7 @@ I am a CS student who is driven by my thirst for knowledge and deep passion for 
 <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   
 <img width="30px" src="https://cdn.simpleicons.org/socketdotio/white" />
-<img width="30px" src="https://cdn.simpleicons.org/flask/white" />
+<img width="30px" src="https://cdn.simpleicons.org/flask" />
 <img width="30px" style="background-color:white;"  src="https://cdn.simpleicons.org/express/white" />
 </div>
 <br />
