@@ -26,7 +26,6 @@ I am a CS student who is driven by my thirst for knowledge and deep passion for 
 # 💻 Tech Stack:
 <div style="display:flex; gap:5px;">
 <img a alt="Python" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img width="30px"  src="https://cdn.simpleicons.org/php" />
 <img  alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img  alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="30px"  src="https://cdn.simpleicons.org/nextdotjs/white" />
