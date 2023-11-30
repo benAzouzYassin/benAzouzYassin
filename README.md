@@ -17,7 +17,7 @@ I am a CS student who is driven by my thirst for knowledge and deep passion for 
 ## 🌐 Socials:
 <span>
   
-<a style="margin-left:20px" href="https://www.linkedin.com/in/yassine-ben-azouz-724782242/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a style="margin-left:20px" href="https://www.linkedin.com/in/yassine-ben-azouz123/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yassinebenazouz123@gmail.com" >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
