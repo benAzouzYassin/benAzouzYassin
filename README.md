@@ -32,7 +32,7 @@ I am a CS student who is driven by my thirst for knowledge and deep passion for 
 <img width="30px"  src="https://cdn.simpleicons.org/nextdotjs/white" />
 <img  alt="Astro" width="30px" src="https://cdn.simpleicons.org/astro" />
 <img width="30px"  alt="tailwindcss" src="https://cdn.simpleicons.org/tailwindcss" />
-<img width="30px"  src="https://cdn.simpleicons.org/jquery" />
+<img width="30px"  src="https://simpleicons.org/icons/express.svg" />
 <img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img width="30px"  src="https://cdn.simpleicons.org/prisma/white" />
 <img width="30px"   src="https://cdn.simpleicons.org/mongodb" />
