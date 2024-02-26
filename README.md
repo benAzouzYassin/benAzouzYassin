@@ -11,7 +11,7 @@
 <br>
 
 # 💫 About Me:
-I am a CS student who is driven by my thirst for knowledge and deep passion for learning new things about software development. I enjoy diving deep into a technology and challenging myself with projects to force myself to learn new things✨.
+I am a Web development student who is driven by my thirst for knowledge and deep passion for learning new things about software development. I enjoy diving deep into a technology and challenging myself with projects to force myself to learn new things✨.
 
 
 ## 🌐 Socials:
