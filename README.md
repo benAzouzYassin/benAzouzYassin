@@ -27,7 +27,7 @@ I am a CS student who is driven by my thirst for knowledge and deep passion for 
 # 💻 Tech Stack:
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,next,nodejs,express,firebase,tailwind,graphql,prisma,redis,mongodb,postgresql)]
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,next,nodejs,express,firebase,tailwind,graphql,prisma,redis,mongodb,postgresql)
 # 📊 GitHub Stats:
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=benAzouzYassin&theme=light&hide_border=false"><br>
