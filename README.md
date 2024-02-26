@@ -25,23 +25,9 @@ I am a CS student who is driven by my thirst for knowledge and deep passion for 
 
 
 # 💻 Tech Stack:
-<div style="display:flex; gap:5px;">
-<img a alt="Python" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img  alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img  alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="30px"  src="https://cdn.simpleicons.org/nextdotjs/white" />
-<img  alt="Astro" width="30px" src="https://cdn.simpleicons.org/astro" />
-<img width="30px"  alt="tailwindcss" src="https://cdn.simpleicons.org/tailwindcss" />
-<img width="30px"  src="https://simpleicons.org/icons/express.svg" />
-<img width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="30px"  src="https://cdn.simpleicons.org/prisma/white" />
-<img width="30px"   src="https://cdn.simpleicons.org/mongodb" />
-<img width="30px"  src="https://cdn.simpleicons.org/firebase/orange" />
-<img  alt="Git" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div><br>
 
 
-
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,next,nodejs,express,firebase,tailwind,graphql,prisma,redis,mongodb,postgresql)]
 # 📊 GitHub Stats:
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=benAzouzYassin&theme=light&hide_border=false"><br>
