@@ -8,11 +8,6 @@
 
 
 </div>
-<br>
-
-# 💫 About Me:
-I am a Web development student who is driven by my thirst for knowledge and deep passion for learning new things about software development. I enjoy diving deep into a technology and challenging myself with projects to force myself to learn new things✨.
-
 
 ## 🌐 Socials:
 <span>
@@ -28,7 +23,7 @@ I am a Web development student who is driven by my thirst for knowledge and deep
 # 💻 Tech Stack:
 
 
-![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,next,nodejs,express,firebase,tailwind,graphql,prisma,redis,mongodb,postgresql)
+![My Skills](https://skillicons.dev/icons?i=ts,react,next,nodejs,express,supabase,tailwind,graphql,redis,postgresql)
 # 📊 GitHub Stats:
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=benAzouzYassin&theme=light&hide_border=false"><br>
