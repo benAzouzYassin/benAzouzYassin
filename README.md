@@ -24,7 +24,7 @@
 # 💻 Tech Stack:
 
 
-![My Skills](https://skillicons.dev/icons?i=ts,react,next,nodejs,express,supabase,tailwind,graphql,redis,postgresql)
+![My Skills](https://skillicons.dev/icons?i=ts,react,next,nodejs,express,supabase,tailwind,graphql)
 # 📊 GitHub Stats:
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=benAzouzYassin&theme=light&hide_border=false"><br>
